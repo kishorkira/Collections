@@ -1,0 +1,7 @@
+C:\Users\kisho\OneDrive\Documents\C#\Collections\LinkedListStackQueues\bin\Debug\LinkedListStackQueues.exe.config
+C:\Users\kisho\OneDrive\Documents\C#\Collections\LinkedListStackQueues\bin\Debug\LinkedListStackQueues.exe
+C:\Users\kisho\OneDrive\Documents\C#\Collections\LinkedListStackQueues\bin\Debug\LinkedListStackQueues.pdb
+C:\Users\kisho\OneDrive\Documents\C#\Collections\LinkedListStackQueues\obj\Debug\LinkedListStackQueues.csprojResolveAssemblyReference.cache
+C:\Users\kisho\OneDrive\Documents\C#\Collections\LinkedListStackQueues\obj\Debug\LinkedListStackQueues.csproj.CoreCompileInputs.cache
+C:\Users\kisho\OneDrive\Documents\C#\Collections\LinkedListStackQueues\obj\Debug\LinkedListStackQueues.exe
+C:\Users\kisho\OneDrive\Documents\C#\Collections\LinkedListStackQueues\obj\Debug\LinkedListStackQueues.pdb

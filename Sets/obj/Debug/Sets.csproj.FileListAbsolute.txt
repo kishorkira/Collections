@@ -1,0 +1,7 @@
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Sets\bin\Debug\Sets.exe.config
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Sets\bin\Debug\Sets.exe
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Sets\bin\Debug\Sets.pdb
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Sets\obj\Debug\Sets.csproj.CoreCompileInputs.cache
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Sets\obj\Debug\Sets.exe
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Sets\obj\Debug\Sets.pdb
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Sets\obj\Debug\Sets.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Dictionaries\bin\Debug\Dictionaries.exe.config
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Dictionaries\bin\Debug\Dictionaries.exe
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Dictionaries\bin\Debug\Dictionaries.pdb
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Dictionaries\obj\Debug\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Dictionaries\obj\Debug\Dictionaries.exe
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Dictionaries\obj\Debug\Dictionaries.pdb
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Dictionaries\obj\Debug\Dictionaries.csprojResolveAssemblyReference.cache

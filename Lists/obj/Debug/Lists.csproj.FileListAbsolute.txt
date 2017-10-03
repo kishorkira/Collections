@@ -1,0 +1,7 @@
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Lists\bin\Debug\Lists.exe.config
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Lists\bin\Debug\Lists.exe
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Lists\bin\Debug\Lists.pdb
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Lists\obj\Debug\Lists.exe
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Lists\obj\Debug\Lists.pdb
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Lists\obj\Debug\Lists.csprojResolveAssemblyReference.cache

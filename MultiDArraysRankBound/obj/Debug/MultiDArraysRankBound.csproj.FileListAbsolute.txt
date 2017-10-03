@@ -1,0 +1,7 @@
+C:\Users\kisho\OneDrive\Documents\C#\Collections\MultiDArraysRankBound\bin\Debug\MultiDArraysRankBound.exe.config
+C:\Users\kisho\OneDrive\Documents\C#\Collections\MultiDArraysRankBound\bin\Debug\MultiDArraysRankBound.exe
+C:\Users\kisho\OneDrive\Documents\C#\Collections\MultiDArraysRankBound\bin\Debug\MultiDArraysRankBound.pdb
+C:\Users\kisho\OneDrive\Documents\C#\Collections\MultiDArraysRankBound\obj\Debug\MultiDArraysRankBound.csprojResolveAssemblyReference.cache
+C:\Users\kisho\OneDrive\Documents\C#\Collections\MultiDArraysRankBound\obj\Debug\MultiDArraysRankBound.csproj.CoreCompileInputs.cache
+C:\Users\kisho\OneDrive\Documents\C#\Collections\MultiDArraysRankBound\obj\Debug\MultiDArraysRankBound.exe
+C:\Users\kisho\OneDrive\Documents\C#\Collections\MultiDArraysRankBound\obj\Debug\MultiDArraysRankBound.pdb

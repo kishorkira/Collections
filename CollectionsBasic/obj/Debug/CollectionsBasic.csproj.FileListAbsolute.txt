@@ -1,0 +1,7 @@
+C:\Users\kisho\OneDrive\Documents\C#\Collections\CollectionsBasic\bin\Debug\CollectionsBasic.exe.config
+C:\Users\kisho\OneDrive\Documents\C#\Collections\CollectionsBasic\bin\Debug\CollectionsBasic.exe
+C:\Users\kisho\OneDrive\Documents\C#\Collections\CollectionsBasic\bin\Debug\CollectionsBasic.pdb
+C:\Users\kisho\OneDrive\Documents\C#\Collections\CollectionsBasic\obj\Debug\CollectionsBasic.csproj.CoreCompileInputs.cache
+C:\Users\kisho\OneDrive\Documents\C#\Collections\CollectionsBasic\obj\Debug\CollectionsBasic.exe
+C:\Users\kisho\OneDrive\Documents\C#\Collections\CollectionsBasic\obj\Debug\CollectionsBasic.pdb
+C:\Users\kisho\OneDrive\Documents\C#\Collections\CollectionsBasic\obj\Debug\CollectionsBasic.csprojResolveAssemblyReference.cache

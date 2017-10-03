@@ -1,0 +1,7 @@
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Enumerators\bin\Debug\Enumerators.exe.config
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Enumerators\bin\Debug\Enumerators.exe
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Enumerators\bin\Debug\Enumerators.pdb
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Enumerators\obj\Debug\Enumerators.csproj.CoreCompileInputs.cache
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Enumerators\obj\Debug\Enumerators.exe
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Enumerators\obj\Debug\Enumerators.pdb
+C:\Users\kisho\OneDrive\Documents\C#\Collections\Enumerators\obj\Debug\Enumerators.csprojResolveAssemblyReference.cache
